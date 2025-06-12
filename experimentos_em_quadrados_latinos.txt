@@ -1,0 +1,9 @@
+Planejamento de Experimentos é uma metodologia estatística utilizada para planejar, conduzir, analisar e interpretar testes realizados com o objetivo de avaliar os efeitos de variáveis de entrada (fatores) sobre uma ou mais variáveis de saída (respostas).
+
+Definição de Experimentos em Quadrado Latino
+Experimentos em Quadrado Latino são um tipo de planejamento experimental utilizado quando há duas fontes de variação sistemática, além do fator de interesse, que precisam ser controladas (ou bloqueadas), como por exemplo linhas e colunas, tempo e operador, máquinas e turnos, etc.
+
+Os experimentos são feitos sob as suposições do modelo linear normal, são elas:
+- Relaçao Linear entre a variável resposta e as variáveis explicativas(covariáveis)
+- Os erros seguem distribuição normal com média zero e variância constante(homocedásticos)
+- Os erros são não correlacionados(sob normalidade, implica em independência)
